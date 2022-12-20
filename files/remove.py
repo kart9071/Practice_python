@@ -12,3 +12,4 @@ if os.path.exists("hello/hi.txt"):
         exit()
 else:
     print("the file not exist")
+    print("Hello world")
